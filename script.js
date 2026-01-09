@@ -1,3 +1,4 @@
+// ✅ EDIT THESE DETAILS
 const BUSINESS_PHONE = "+44XXXXXXXXXX";
 const BUSINESS_EMAIL = "hydroflow@example.com";
 const WHATSAPP_NUMBER = "+44XXXXXXXXXX";
